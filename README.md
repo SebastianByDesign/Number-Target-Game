@@ -2,6 +2,8 @@
 
 A fix for the Codecademy Learn ReactJS tutorial game.
 
+Click [Here](https://sebastiandesign.github.io/Number-Target-Game/) to Play!
+
 ### How To Play ###
 
 From the Codecademy Lesson:
